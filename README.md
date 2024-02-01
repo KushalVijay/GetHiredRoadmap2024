@@ -106,7 +106,10 @@ These are specific roadmaps for big tech companies which include most asked inte
 [Part 2](https://www.youtube.com/watch?v=ajmVhXOaOcU)
     
 # 100 Companies which hires based on DSA
-
+| Company List| Link |
+|--|--|
+| 50 Companies with CTC over 25 Lakhs | https://youtu.be/7Neea_NBDzs|
+| 50 Companies with Base Pay over 10 Lakhs | https://youtu.be/H3lOzN3VXys|
 
 # Internship Interview Experiences
 
