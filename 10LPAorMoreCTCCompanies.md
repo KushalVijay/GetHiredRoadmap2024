@@ -1,5 +1,4 @@
-Here’s the markdown table code formatted for GitHub:
-
+## List of Companies that offer 10-15 lakhs CTC and hire in India for technical roles and degrees like Btech, BE, Mtech, ME, MCA, Dual degree etc for fresher roles.
 | Serial No. | Company Name                                           | CTC Offered (INR LPA) | Intern Stipend (INR) | CTC Breakup                                                                                      |
 |------------|--------------------------------------------------------|-----------------------|----------------------|-------------------------------------------------------------------------------------------------|
 | 1          | 42 Gears                                               | 15                    | 10,000               |                                                                                                 |
@@ -67,4 +66,4 @@ Here’s the markdown table code formatted for GitHub:
 | 63         | GSK Global Capability Center                           | 15                    |                      |                                                                                                 |
 | 64         | HAVELLS INDIA LIMITED                                  | 12.5                  |                      | 1. CTC: 8 Lacs PA Plus, 2. Settlement Allowances at the time of joining (1 Lacs), 3. Retention Bonus payable |
 
-Source: [LeetCode](https://leetcode.com/discuss/compensation/2748640/300-Company-Compensation-for-Freshers-in-India-2022-2023) , Internet and Ex or Current Employees
+Source: [LeetCode](https://leetcode.com/discuss/compensation/2748640/300-Company-Compensation-for-Freshers-in-India-2022-2023) , Internet and Ex or Current Employees.
