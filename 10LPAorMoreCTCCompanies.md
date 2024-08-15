@@ -1,4 +1,4 @@
-## List of Companies that offer 10-15 lakhs CTC and hire in India for technical roles and degrees like Btech, BE, Mtech, ME, MCA, Dual degree etc for fresher roles.
+## List of Companies which Offer CTC between 10-15 lakhs CTC to Freshers
 | Serial No. | Company Name                                           | CTC Offered (INR LPA) | Intern Stipend (INR) | CTC Breakup                                                                                      |
 |------------|--------------------------------------------------------|-----------------------|----------------------|-------------------------------------------------------------------------------------------------|
 | 1          | 42 Gears                                               | 15                    | 10,000               |                                                                                                 |
