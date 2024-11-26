@@ -131,4 +131,4 @@ These are specific roadmaps for big tech companies which include most asked inte
 
 
 # Connect with me
-[***Tap Here***!](https://techsyncup.in/)🚀
+[***Tap Here***!](https://www.instagram.com/kushal_vijay_))🚀
