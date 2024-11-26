@@ -4,8 +4,6 @@ Hi! I'm Kushal Vijay, A **Software Engineer at Microsoft and a Content Creator o
 
 A lot of effort goes into making the video and sheet, One ⭐ to the repo and one share to the video [Video Link] will not hurt you. 🥺
 
-    Want to connect with me directly? 
-[***Tap Here***!](https://techsyncup.in/)🚀
 # Programming Language [10 Points]
 
 First and for most thing is a programming language which follows OOPs concepts like CPP, JAVA or Python.
@@ -63,6 +61,7 @@ Before you jump onto solving Algorithms questions, It's very import to learn abo
 [Complete List here!](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=2j4GBgLRgJGjAnxv)
 
 # System Design Advanced 🌐[30 Points]
+You can refer to Alex Hu Book: [pdf link](https://github.com/mukul96/System-Design-AlexXu/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf)
 
 [Complete FREE course](https://www.youtube.com/@ByteByteGo/playlists)
 
@@ -110,6 +109,9 @@ These are specific roadmaps for big tech companies which include most asked inte
 |--|--|
 | 50 Companies with CTC over 25 Lakhs | https://youtu.be/7Neea_NBDzs|
 | 50 Companies with Base Pay over 10 Lakhs | https://youtu.be/H3lOzN3VXys|
+
+**Remote Companies List:** 
+[Link](https://bit.ly/RemoteCompaniesSheet)
 
 # Internship Interview Experiences
 
