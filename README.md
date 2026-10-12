@@ -74,6 +74,7 @@ You can refer to Alex Hu Book: [pdf link](https://github.com/mukul96/System-Desi
 |--|
 | https://www.faceprep.in/tests/ |
 | https://www.careerride.com/online-aptitude-test.aspx |
+| [AISEA placement starter pack](https://www.aisea.in/for-colleges/starter-pack) - Free introductory questions with worked explanations and printable practice sheets; no account required. |
 
 ##
 | Topic Wise Mock Test Preparation| |
